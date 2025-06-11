@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://christianresourcecentre.github.io/Christian-Resource-Centre/sitemap.xml
